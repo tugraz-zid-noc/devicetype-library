@@ -18732,6 +18732,10 @@
 "device-types/PC Engines/APU6.yaml"
 ],
 [
+"penn-elcom-5008-pec",
+"device-types/Penn Elcom/5008-PEC.yml"
+],
+[
 "peplink-balance-1350",
 "device-types/Peplink/Balance-1350.yaml"
 ],
@@ -22966,6 +22970,10 @@
 [
 "watchguard-firebox-m370",
 "device-types/WatchGuard/Firebox-M370.yaml"
+],
+[
+"watchguard-firebox-m570",
+"device-types/WatchGuard/Firebox-M570.yaml"
 ],
 [
 "watchguard-firebox-t25",
